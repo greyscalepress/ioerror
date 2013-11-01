@@ -34,3 +34,8 @@ Bottom: 0.4 inch
 
 Top page numbers and running titles are now placed 0.2166 inch from top.
 
+### TODO:
+
+* delete pages & re-apply new master pages to everything from page 4.
+
+***
