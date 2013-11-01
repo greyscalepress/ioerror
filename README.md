@@ -8,6 +8,11 @@ The raw transcripts can be found in [this repository](https://github.com/greysca
 
 The editor of the book is Greyscale Press. Find more information about us [on our website](http://greyscalepress.com/).
 
+Print copies of the book can be obtained through Amazon:
+
+* http://www.amazon.com/dp/2970070650/
+* http://www.amazon.de/dp/2970070650/
+
 ## How can I contact you securely?
 You can write us using PGP encryption. Please use the following email address: inbox [at] greyscalepress [dot] com, and use the public 4096-bit PGP key found at [gpg.greyscalepress.com](http://gpg.greyscalepress.com/). Our mail server is hosted in Switzerland, subject to swiss data protection legislation.
 
