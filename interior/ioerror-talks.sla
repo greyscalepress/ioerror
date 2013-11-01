@@ -2035,11 +2035,11 @@
             <para PARENT="Metadata" LINESPMode="1"/>
             <ITEXT FONT="Chivo Regular" FONTSIZE="8" CH="Chivo"/>
             <para PARENT="Metadata" LINESPMode="1"/>
-            <ITEXT FONT="Fjord One" FONTSIZE="8" CH="Made by Hector Gatti (design) &amp; Igino Marini (spacing and kerning) "/>
+            <ITEXT FONT="Chivo Regular" FONTSIZE="8" CH="Made by Hector Gatti (design) &amp; Igino Marini (spacing and kerning) "/>
             <para PARENT="Metadata" LINESPMode="1"/>
-            <ITEXT FONT="Fjord One" FONTSIZE="8" CH="Copyright (c) 2010, Omnibus-Type (www.omnibus- type.com) &amp; Igino Marini (www.ikern.com) "/>
+            <ITEXT FONT="Chivo Regular" FONTSIZE="8" CH="Copyright (c) 2010, Omnibus-Type (www.omnibus- type.com) &amp; Igino Marini (www.ikern.com) "/>
             <para PARENT="Metadata" LINESPMode="1"/>
-            <ITEXT FONT="Fjord One" FONTSIZE="8" CH="Licensed under the SIL Open Font License, Version 1.1"/>
+            <ITEXT FONT="Chivo Regular" FONTSIZE="8" CH="Licensed under the SIL Open Font License, Version 1.1"/>
             <para PARENT="Metadata" LINESPMode="1"/>
             <para PARENT="Metadata" LINESPMode="1"/>
             <ITEXT FONTSIZE="8" CH="The source-files of this book can be found at:"/>
