@@ -1,0 +1,7 @@
+## Author biography
+
+Maximum 2500 characters
+
+Jacob Appelbaum is an independent computer security researcher and hacker. He is a core member of the Tor project, and the co-founder of the San Francisco hackerspace Noisebridge. His resume includes working with Greenpeace, Wikileaks, The Open Society Institute, Tactical Tech, The Ruckus Society, The Rainforest Action Network and others.
+
+He is a contributor to Julian Assange's 2012 book <i><a href="http://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1939293006/">Cypherpunks: Freedom and the Future of the Internet</a></i> along with Andy Müller-Maguhn and Jérémie Zimmermann.
