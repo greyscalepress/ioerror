@@ -12,7 +12,7 @@ Height: 6.875 inch
 
 ### Margins
 
-First version (v1.0):
+#### Margins - First version (v1.0):
 
 Inside: 0.72 inch (1.8 cm)
 Outside: 0.5 inch (1.27 cm)
@@ -23,9 +23,13 @@ The top page numbers and running titles are placed at 0.4166 inch from top.
 
 Evaluation of the print version:
 
-Interior is fine, bottom is fine. Outside and top could be smaller, by about 5mm (0.2 inch).
+Interior is fine, bottom is fine. 
 
-Second version (v1.1):
+Outside and top could be smaller, by about 5mm (0.2 inch). 
+
+We want the end result to look a bit more dense, concentrated. Less white space.
+
+#### Margins - Second version (v1.1):
 
 Inside: 0.72 inch
 Outside: 0.3 inch 
@@ -34,8 +38,13 @@ Bottom: 0.4 inch
 
 Top page numbers and running titles are now placed 0.2166 inch from top.
 
+We also increased the size of page number and running titles - same size 
+as the body text (9pt).
+
+
 ### TODO:
 
 * delete pages & re-apply new master pages to everything from page 4.
+* add the EPFL talk.
 
 ***
