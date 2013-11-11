@@ -60,15 +60,16 @@ Baseline settings (Document Setup > Guides)
 Baseline Grid: 11pt
 Baseline Offset: 38pt (0.55 inch = 39.60 pt)
 
-Make the bottom margin: 0.35 inch
-
-#### Margins - update
+Make the bottom margin: 0.30 inch
 
 
 #### Monochrome Black
 
 Adding a monochrome black page at beginning and end (inspiration: "Transparence, Opacité,
 Camouflage", by Samuel Rivers-Moore).
+
+Width: 4.3750
+Height: 7.1250
 
 
 ## Cover format
