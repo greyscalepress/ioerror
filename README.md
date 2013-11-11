@@ -12,6 +12,9 @@ Print copies of the book can be obtained through Amazon:
 
 * http://www.amazon.com/dp/2970070650/
 * http://www.amazon.de/dp/2970070650/
+* http://www.amazon.fr/dp/2970070650/
+* http://www.amazon.es/dp/2970070650/
+* http://www.amazon.it/dp/2970070650/
 
 ## How can I contact you securely?
 You can write us using PGP encryption. Please use the following email address: inbox [at] greyscalepress [dot] com, and use the public 4096-bit PGP key found at [gpg.greyscalepress.com](http://gpg.greyscalepress.com/). Our mail server is hosted in Switzerland, subject to swiss data protection legislation.
@@ -24,7 +27,7 @@ Our policy is discussed [in this document](notes/Royalties-Policy.txt).
 We use the two following fonts, both free software and released under the Open Font License:
 
 * *Fjord One*, designed by Viktoriya Grabowska, available [from google fonts](https://www.google.com/fonts/specimen/Fjord+One).
-* *Chivo*, designed by Hector Gatti, available [from google fonts](https://www.google.com/fonts/specimen/Chivo).
+* *Karla*, designed by Jonathan Pinhorn, available [from google fonts](https://www.google.com/fonts/specimen/Karla).
 
 For both fonts, we use the source OTF files that you get from the [Google Font Directory](https://code.google.com/p/googlefontdirectory/) with command line tools.
 
