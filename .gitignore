@@ -49,3 +49,4 @@ photos/
 old-versions/
 test-export/
 interior/pdf
+*.pxm
