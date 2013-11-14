@@ -19,7 +19,7 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="2" LINESP="11" INDENT="0" RMARGIN="0" FIRST="14.4" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Fjord One" FONTSIZE="9" LANGUAGE="English"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="2" LINESP="11" INDENT="0" RMARGIN="0" FIRST="14.4" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Fjord One" FONTSIZE="9" LANGUAGE="English"/>
         <STYLE NAME="Paragraph Title" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style" FONT="Fjord One" FONTSIZE="13" LANGUAGE="English"/>
         <STYLE NAME="Quotation" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" CPARENT="Default Character Style" FONT="Fjord One" FONTSIZE="9" LANGUAGE="English"/>
         <STYLE NAME="HTML_default" LINESPMode="0" LINESP="15" KERN="0"/>
@@ -31,7 +31,7 @@
         <STYLE NAME="HTML_h3" LINESPMode="0" LINESP="11" VOR="20" NACH="10" FONT="Karla Bold" FONTSIZE="14" FEATURES="inherit" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="HTML_h4" LINESPMode="0" LINESP="11" VOR="10" NACH="5" FONT="Karla Bold" FONTSIZE="13" FEATURES="inherit" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="Bibliography" ALIGN="0" LINESPMode="1" LINESP="11" INDENT="0" RMARGIN="0" FIRST="14.4" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Fjord One" FONTSIZE="9" LANGUAGE="English"/>
-        <CHARSTYLE CNAME="Default Character Style" FONT="Fjord One" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Fjord One" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <CHARSTYLE CNAME="Acronym" FONTSIZE="8" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="2.30255809660709e-176" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
@@ -757,35 +757,35 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="All right. Great, now we all feel bet­ter. That’s good."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="I’ve been de­bat­ing wheth­er or not to re­veal some new pro­grams today. Ba­sic­ally, the way that I have been think­ing about it is, do I want to go to pris­on or not? That’s part of what’s ac­tu­ally at stake here, which is that it is not the case that I can tell you everything that is in my head right now without fear of that. This is just a crazy situ­ation to be in. This no­tion that I know a thing that im­pacts each of you — but in the­ory is done in my name. I can’t ac­tu­ally talk freely about those things. This is a really bad situ­ation to be in."/>
+            <ITEXT CH="I’ve been de­bat­ing wheth­er or not to re­veal some new pro­grams today. Ba­sic­ally, the way that I have been think­ing about it is, do I want to go to pris­on or not? That’s part of what’s ac­tu­ally at stake here, which is that it is not the case that I can tell you everything that is in my head right now without fear of that. This is just a crazy situ­ation to be in. This no­tion that I know a thing that im­pacts each of you—but in the­ory is done in my name. I can’t ac­tu­ally talk freely about those things. This is a really bad situ­ation to be in."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="When you hear people talk­ing about so-called law­ful in­ter­cep­tion, you hear them talk­ing about spy­ing, really in a lot of cases when they’re talk­ing about this, and they talk about it in secrecy, ant they do ”the war on ter­ror­ism”, “the war on some drugs”, “the war on child por­no­graphy”, “the war on money laun­der­ing”, and vari­ous oth­er thought crimes – I feel like those people are gen­er­ally in­tel­lec­tu­ally dis­hon­est."/>
+            <ITEXT CH="When you hear people talk­ing about so-called law­ful in­ter­cep­tion, you hear them talk­ing about spy­ing, really in a lot of cases when they’re talk­ing about this, and they talk about it in secrecy, ant they do ”the war on ter­ror­ism”, “the war on some drugs”, “the war on child por­no­graphy”, “the war on money laun­der­ing”, and vari­ous oth­er thought crimes—I feel like those people are gen­er­ally in­tel­lec­tu­ally dis­hon­est."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="I feel like what they’re ac­tu­ally say­ing is that they’d like to help cre­ate a spe­cial class of people, and to have spe­cial priv­ileges, whereby the ar­chi­tec­ture it­self will al­low every­one else’s rights to be vi­ol­ated as well."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Fun­da­ment­ally, the reas­on that I think cryp­to­graphy is so im­port­ant is be­cause it gives us one of the av­en­ues of res­ist­ance, where it be­comes ba­sic­ally not pos­sible to break the law. The work that Len­stra does here, for ex­ample, is really im­port­ant. You can’t sub­vert the math­em­at­ics when the math­em­at­ics are good. The im­ple­ment­a­tion you might be able to sub­vert, the law you could break – the law is be­ing broken right now. But to ac­tu­ally be able to have "/>
-            <ITEXT FONT="Karla Italic" CH="something"/>
-            <ITEXT CH=" that we in­di­vidu­ally can do, and so­ci­etally can do, is ex­tremely im­port­ant."/>
+            <ITEXT CH="Fun­da­ment­ally, the reas­on that I think cryp­to­graphy is so im­port­ant is be­cause it gives us one of the ave­nues of re­sistance, where it be­comes ba­si­cal­ly not pos­sible to break the law. The work that Lenstra does here, for example, is real­ly impor­tant. You can’t sub­vert the ma­the­ma­tics when the ma­the­ma­tics are good. The im­ple­men­ta­tion you might be able to sub­vert, the law you could break—the law is being bro­ken right now. But to ac­tual­ly be able to have "/>
+            <ITEXT FONT="Karla Italic" CH="so­me­thing"/>
+            <ITEXT CH=" that we indi­vi­dual­ly can do, and so­cie­tal­ly can do, is extre­me­ly impor­tant."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="So I want to try to de­scribe to you today the new threat mod­el. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Be­fore I do that, I want to say something that happened to me today. I’m sorry to the per­son who sort of came to me and told me this, I didn’t tell you I was go­ing to say this. But I met a guy here today who told me that he has a friend that was killed by a drone strike. There’s a guy in this room who told me that my coun­try killed one of his friends with a fly­ing ro­bot."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Just let that sink in. Think about the graph ana­lys­is talk that we are hav­ing. You are all one hop away. This is a really ser­i­ous prob­lem."/>
+            <ITEXT CH="Just let that sink in. Think about the graph ana­lys­is talk that we are hav­ing. You are all one hop away. This is a really ser­i­ous problem."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="When we talk about keep­ing the ar­chi­tec­ture of the In­ter­net the way that is right now, we have a ser­i­ous prob­lem, which is that fun­da­ment­ally, this is about power as Schnei­er says. These powers, maybe we should get rid of them. The same way that we have with land mines. That’s tech­no­lo­gic­ally pos­sible. Maybe what we need is to get rid of sur­veil­lance as much as is pos­sible. Tech­nic­ally we can sur­veil people but per­haps we can build counter-meas­ures and leg­al in­stru­ments in or­der to ac­tu­ally res­ist that sur­veil­lance. I think that we can do that."/>
+            <ITEXT CH="When we talk about kee­ping the archi­tec­ture of the Inter­net the way that is right now, we have a se­rious problem, which is that fun­damen­tal­ly, this is about po­wer as Schneier says. These po­wers, maybe we should get rid of them. The same way that we have with land mines. That’s tech­no­lo­gi­cal­ly pos­sible. Maybe what we need is to get rid of sur­veillance as much as is pos­sible. Tech­ni­cal­ly we can sur­veil people but per­haps we can build coun­ter-mea­sures and le­gal instru­ments in or­der to ac­tual­ly re­sist that sur­veillance. I think that we can do that."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="One of the threat mod­els, though, is this guy who wanted to live a life, and I’m sure he was an un­pleas­ant per­son to some de­gree."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Pres­id­ent Obama him­self spoke for 10 minutes on what an un­pleas­ant per­son he was. But what Obama nev­er ac­tu­ally said about this per­son that was killed by a drone, was that he had a tri­al by jury and was con­victed, be­cause he wasn’t."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="He re­ceived no tri­al by jury, and I can tell you this be­cause I have white priv­ilege. I can stand here and say this. But the friends of this per­son, that knew this per­son, they won’t stand here and say that be­cause they would fear to be tar­geted. So we need to build sys­tems so the bad per­son could stand here and tell us that story without fear of be­ing tar­geted."/>
+            <ITEXT CH="He re­ceived no tri­al by jury, and I can tell you this be­cause I have white priv­ilege. I can stand here and say this. But the friends of this per­son, that knew this per­son, they won’t stand here and say that, be­cause they would fear to be tar­geted. So we need to build sys­tems so the bad per­son could stand here and tell us that story without fear of be­ing tar­geted."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="The only way we build a se­cur­ity sys­tem like that is if we use math­em­at­ics. There’s really no oth­er way around it, be­cause the law simply does not work. But in isol­a­tion, it will not work either. We have to have fun­da­ment­al rights to pri­vacy that are up­held in na­tion­al and in­ter­na­tion­al courts. We have to ac­tu­ally have these things come to­geth­er."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="If you don’t have the right to res­ist giv­ing up your pass phrase, for ex­ample. If you don’t have the right to re­main si­lent. If you don’t have a right against self-in­crim­in­a­tion. With the ex­cep­tion of some kinds of an­onym­ity sys­tems, even­tu­ally, the powers that be may come to rest on you and ask you for these things. They may de­mand it in many ways. Some of those ways are ex­tremely un­pleas­ant."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="This is a threat mod­el that ex­ists for this per­son, and very few people would design a se­cur­ity sys­tem for that guy. In fact, if you were to try to design a se­cur­ity sys­tem for the guy that was killed by a drone strike, you’d prob­ably go to pris­on for that – even if you were to think about it in that way."/>
+            <ITEXT CH="This is a threat mod­el that ex­ists for this per­son, and very few people would design a se­cur­ity sys­tem for that guy. In fact, if you were to try to design a se­cur­ity sys­tem for the guy that was killed by a drone strike, you’d prob­ably go to pris­on for that—even if you were to think about it in that way."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="So I’m not design­ing it for that guy, but I want to design it for every­body here, who is one hop away from that guy. You should too, be­cause you’re one hop away. But you should also do it, be­cause you’re prob­ably that guy also, at some point in the fu­ture, if you’re un­lucky."/>
             <para PARENT="Default Paragraph Style"/>
@@ -799,7 +799,9 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="There are so many pro­grams. I ac­tu­ally have a slide where I made a visu­al… I don’t know if we could put this up here. I made a visu­al of just pro­gram names I scrapped from Linked­In pages. Search for some clas­si­fied NSA pro­grams, and you’ll find on Linked­In, that people put the pro­gram names on their CV."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="If you look at how they’re grouped in the CV, you’ll ac­tu­ally see what the pro­gram names gen­er­ally are. Like, “Oh, it turns out MAIN­WAY must be re­lated to tele­phone metadata, be­cause they say that they are an ex­pert in tele­phone metadata sur­veil­lance.” You can see five oth­er pro­grams next to it, that gives you some idea about those two, right? You can make your graph of that. "/>
+            <ITEXT CH="If you look at how they’re grouped in the CV, you’ll ac­tu­ally see what the pro­gram names gen­er­ally are. Like, “Oh, it turns out "/>
+            <ITEXT FONTSIZE="8" CH="MAIN­WAY"/>
+            <ITEXT CH=" must be re­lated to tele­phone metadata, be­cause they say that they are an ex­pert in tele­phone metadata sur­veil­lance.” You can see five oth­er pro­grams next to it, that gives you some idea about those two, right? You can make your graph of that. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Now, ima­gine that for all the pro­gram names you find there, each one of those is solv­ing a dis­crete prob­lem for the whole plan­et sur­veil­lance. You have satel­lites in space – so you’re ima­gin­ing the pale blue dot. You have fiber cables all over the place. You have the in­ter­con­nec­ted­ness of people us­ing those cables. You have tele­phone sys­tems. You have satel­lite mo­dems. You have cell phones, all this stuff."/>
             <para PARENT="Default Paragraph Style"/>
@@ -813,7 +815,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="The really, really scary part though is that, if we view the world in this way, and we view this pale blue dot with some elec­tron­ic com­mu­nic­a­tions cross­ing it, we should also think about how the ad­versary views it."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="When I say the ad­versary, I mean the people that are act­ively at­tack­ing our pri­vacy. They even use slides where they talk about re­volu­tion – this is pretty in­cred­ible – in­side of the doc­u­ments, and they even name them ac­cord­ing to Amer­ic­an Civil War battles."/>
+            <ITEXT CH="When I say the ad­versary, I mean the people that are act­ively at­tack­ing our pri­vacy. They even use slides where they talk about re­volu­tion—this is pretty in­cred­ible—in­side of the doc­u­ments, and they even name them ac­cord­ing to Amer­ic­an Civil War battles."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="It’s fas­cin­at­ing to me to see this, be­cause they view them­selves as an at­tack­er and us, all of us, we are the vic­tims. Of course, they are the good guys in this battle. It’s prob­ably not a good idea to en­gage in too much on that, be­cause I think that is a dia­lect goal im­per­at­ive, that leads in a bad cycle."/>
             <para PARENT="Default Paragraph Style"/>
@@ -835,7 +837,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Now, ima­gine that that’s how it works for the en­tire plan­et. How long does it take for the en­tire plan­et to be really be­ing col­lec­ted on in some pretty nasty ways? It’s pretty clear that you’ll start to gath­er lots and lots of in­no­cent people all the time."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="It’s also quite clear that when you tie this to an ac­tion­able in­tel­li­gence – let’s say a tar­get like the drone strike fel­low that I men­tioned – then it starts to get really scary. It means that merely us­ing a tele­phone and hav­ing the pat­tern of look­ing like you might be a bad guy is enough, from a sur­veil­lance per­spect­ive, to have you tar­geted for murder."/>
+            <ITEXT CH="It’s also quite clear that when you tie this to an ac­tion­able in­tel­li­gence—let’s say a tar­get like the drone strike fel­low that I men­tioned—then it starts to get really scary. It means that merely us­ing a tele­phone and hav­ing the pat­tern of look­ing like you might be a bad guy is enough, from a sur­veil­lance per­spect­ive, to have you tar­geted for murder."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="This is a really fas­cin­at­ing thing. When we as en­gin­eers de­signed com­mu­nic­a­tion sys­tems, shouldn’t we be design­ing against our com­mu­nic­a­tion sys­tems be­ing mis­used in this way? I think so. Is that act­iv­ism? I don’t know. I don’t think so. I think that what that is is ac­tu­ally re­cog­niz­ing from his­tory what we have ac­tu­ally seen tran­spired be­fore."/>
             <para PARENT="Default Paragraph Style"/>
@@ -853,7 +855,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ed­win Black wrote a really fant­ast­ic book. It’s called “IBM and the Holo­caust”. And I ap­pre­ci­ate that the gen­tle­man from the ITU earli­er men­tioned the Second World War."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="For ex­ample, the Nor­we­gi­ans. As I un­der­stand it, they learned about metadata col­lec­tion from the Nazi oc­cu­pa­tion. They ac­tu­ally changed the way that the tele­phone sys­tem did billing, such that in­di­vidu­al houses had the equi­val­ent of a gas meter with something spin­ning so that they could see that you’d called some­where loc­ally or far away, without cent­ral­iz­ing the ac­tu­al re­cords keep­ing. So that an oc­cupy­ing power wouldn’t be able to do these metadata at­tacks. Along came cell phones – that was all out of the win­dow. Now, we’re back."/>
+            <ITEXT CH="For ex­ample, the Nor­we­gi­ans. As I un­der­stand it, they learned about metadata col­lec­tion from the Nazi oc­cu­pa­tion. They ac­tu­ally changed the way that the tele­phone sys­tem did billing, such that in­di­vidu­al houses had the equi­val­ent of a gas meter with something spin­ning so that they could see that you’d called some­where loc­ally or far away, without cent­ral­iz­ing the ac­tu­al re­cords keep­ing. So that an oc­cupy­ing power wouldn’t be able to do these metadata at­tacks. Along came cell phones—that was all out of the win­dow. Now, we’re back."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="“IBM and the Holo­caust” is really fant­ast­ic be­cause it talks about the threat mod­els that we needed to think about about 65 years ago. Us­ing just census data, it was really pos­sible for the Nazis to do in­cred­ible stuff. To go house to house, to have this real seem­ingly im­possible abil­ity. They were om­ni­po­tent, es­sen­tially."/>
             <para PARENT="Default Paragraph Style"/>
@@ -861,7 +863,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="In France, the gen­tle­man tasked with this, he was a part of the French Res­ist­ance and used the census to or­gan­ize the Res­ist­ance. He died in a death camp. The Dutch guy suc­ceeded, if you could call it a suc­cess."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="The point is that this ma­chinery has been built again. only it is much bet­ter this time. And it is the case that you no longer have to opt in to the census. This time when you pick up the tele­phone, in some coun­tries, you get voice print ana­lys­is. You have an IMEI, that the in­di­vidu­al iden­ti­fi­er for the phone. You have the MC, that’s the ac­tu­al secret key in­side of the SIM card. These are unique iden­ti­fi­ers that be­come se­lect­ors."/>
+            <ITEXT CH="The point is that this ma­chinery has been built again. Only it is much bet­ter this time. And it is the case that you no longer have to opt in to the census. This time when you pick up the tele­phone, in some coun­tries, you get voice print ana­lys­is. You have an IMEI, that’s the in­di­vidu­al iden­ti­fi­er for the phone. You have the MC, that’s the ac­tu­al secret key in­side of the SIM card. These are unique iden­ti­fi­ers that be­come se­lect­ors."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="The graph pub­lished by the “New York Times” yes­ter­day shows, in fact, the "/>
             <ITEXT FONT="Karla Italic" CH="main view"/>
@@ -869,11 +871,9 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Then, they have sur­veil­lance sys­tems throughout the en­tire plan­et where they have them either through something like these so-called "/>
             <ITEXT FONT="Karla Italic" CH="up­stream pro­grams"/>
-            <ITEXT CH=" where they ac­tu­ally peek in and then copy data out. And when they don’t have a view in­to a net­work. Let’s say that they don’t have an AT&amp;T…"/>
+            <ITEXT CH=" where they ac­tu­ally peek in and then copy data out. And when they don’t have a view in­to a net­work, let’s say that they don’t have an AT&amp;T… AT&amp;Treas­on, is that what their nick­name is, Bill? Yeah, something like that."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="AT&amp;Treas­on, is that what their nick­name is, Bill? Yeah, something like that."/>
-            <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="When they don’t have an AT&amp;Treas­on, then in­stead what they do is they break in­to the sys­tem. Then, they re-task the sys­tem es­sen­tially with some of the things they would like – like, maybe they wanted to start to look for se­lect­ors to be able to tar­get people and then they ex­filtrate that data in some way."/>
+            <ITEXT CH="When they don’t have an AT&amp;Treas­on, then in­stead what they do is they break in­to the sys­tem. Then, they re-task the sys­tem es­sen­tially with some of the things they would like—like, maybe they wanted to start to look for se­lect­ors to be able to tar­get people and then they ex­filtrate that data in some way."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Part of the threat mod­el we need to think about is that, with just the census data, you can pretty much wipe out an en­tire pop­u­la­tion. You could do in­cred­ible stuff with that, and not in a good way. With this sys­tem, we ac­tu­ally have that in real time for the whole plan­et. Even if you change all your devices, you use one of the so-called burn­er cell phones or something like that, same prob­lem."/>
             <para PARENT="Default Paragraph Style"/>
@@ -895,7 +895,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="For ex­ample, if we want to com­pletely des­troy the myth of the NSA’s passiv­ity, we should look and con­sider what happened with Bel­ga­com. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Bel­ga­com is the case of a Bel­gi­um tele­com where GCHQ en­gaged in crim­in­al – but then I’m sure they would say that it was just for na­tion­al se­cur­ity – activ­ity. And what did they do in the Bel­ga­com case? What we un­der­stand is they have a sys­tem that does a thing called "/>
+            <ITEXT CH="Bel­ga­com is the case of a Bel­gi­um tele­com where GCHQ en­gaged in crim­in­al—but then I’m sure they would say that it was just for na­tion­al se­cur­ity—activ­ity. And what did they do in the Bel­ga­com case? What we un­der­stand is they have a sys­tem that does a thing called "/>
             <ITEXT FONT="Karla Italic" CH="quantum in­ser­tion"/>
             <ITEXT CH="."/>
             <para PARENT="Default Paragraph Style"/>
@@ -909,7 +909,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="When those people went about their lives, these sys­tems at­tacked them. The way that they did the at­tack is when they con­nec­ted to ser­vices, whatever ser­vices they were us­ing on the In­ter­net, those ser­vices were the man in the middle and what was ex­ploit­able was then ex­ploited. Which sounds very gen­er­ic, and I’m sorry for that."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="When they ex­ploited the pro­tocol – let’s say TCP where you can eas­ily in­ject something, let’s say that it’s web-re­lated so they in­ject maybe a web-re­lated pay­load – then they work on ex­ploit­ing the ac­tu­al com­puter on the oth­er side."/>
+            <ITEXT CH="When they ex­ploited the pro­tocol — let’s say TCP where you can eas­ily in­ject something, let’s say that it’s web-re­lated so they in­ject maybe a web-re­lated pay­load — then they work on ex­ploit­ing the ac­tu­al com­puter on the oth­er side."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Tra­di­tion­ally speak­ing, you can’t eas­ily in­ject in­to TCP, un­less you can see the whole con­ver­sa­tion. They’ve got that. They solved that prob­lem, there’s no dif­fi­culty for them. Then they simply need to be able to fin­ger­print whatever cli­ent-side soft­ware is run­ning. With Bel­ga­com, my un­der­stand­ing is that’s ex­actly what they did. They owned the Bel­ga­com this way."/>
             <para PARENT="Default Paragraph Style"/>
@@ -937,11 +937,13 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="You enter a query, and it flows out to many data­bases and quer­ies those sub­sequent data­bases. And then all the data flows back to the ana­lyst. "/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="This is par­tic­u­larly in­ter­est­ing in the Lo­veInt scan­dal, which Bill men­tioned, which is to say, you put in your ex-girl­friend – or ex-boy­friend, or cur­rent girl­friend, or cur­rent boy­friend or whatever – and you put in their email ad­dress. And it pops out whatever in­form­a­tion this plan­et­ary sur­veil­lance sys­tem has."/>
+            <ITEXT CH="This is par­tic­u­larly in­ter­est­ing in the "/>
+            <ITEXT FONT="Karla Italic" CH="Lo­veInt"/>
+            <ITEXT CH=" scan­dal, which Bill men­tioned, which is to say, you put in your ex-girl­friend—or ex-boy­friend, or cur­rent girl­friend, or cur­rent boy­friend or whatever—and you put in their email ad­dress. And it pops out whatever in­form­a­tion this plan­et­ary sur­veil­lance sys­tem has."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="I should re­it­er­ate: I’m us­ing plan­et­ary sur­veil­lance sys­tem as a short­hand. Ob­vi­ously, it’s lit­er­ally dozens and dozens of pro­grams, hun­dreds of pro­grams put to­geth­er. Whatever is col­lec­ted in­to these sys­tems will be de­livered to the ana­lyst."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="From that, they have oth­er ana­lyt­ic­al tools where they can either tie them to­geth­er for your so­cial graph – which they pre­com­pute, I might add, to speed up searches – or they’ll tie it in with oth­er en­riched data."/>
+            <ITEXT CH="From that, they have oth­er ana­lyt­ic­al tools where they can either tie them to­geth­er for your so­cial graph—which they pre­com­pute, I might add, to speed up searches—or they’ll tie it in with oth­er en­riched data."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="For ex­ample, tax re­cords, voter re­gis­tra­tion in­form­a­tion, in­form­a­tion about what op­er­at­ing sys­tem you have re­cently down­loaded, tools you have re­cently down­loaded, IP ad­dresses that you have re­cently used, who your fath­er is, where you’ve worked – these kinds of things. They all get tied to­geth­er. XKey­score is one of the in­ter­faces for search­ing through this."/>
             <para PARENT="Default Paragraph Style"/>
@@ -987,13 +989,17 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="What I would like to say is that I don’t think that si­lence will pro­tect us. Be­ing si­lent about these is­sues, for ex­ample, just fol­low­ing or­ders, is not the way that we should con­tin­ue with these sys­tems. We should build sys­tems of res­ist­ance."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="To give you an idea of this, there’s a sys­tem that’s called Coloca­tion. This is a sep­ar­ate NSA pro­gram. The Coloca­tion sys­tem is a sys­tem that does graph ana­lys­is. It looks at cell site loc­a­tion data. For those of you that are writ­ing this up for a news­pa­per, when Gen­er­al, or, Em­per­or Al­ex­an­der – as he is called in Wash­ing­ton, DC, no kid­ding – when he talks about how they’re not col­lect­ing things un­der Sec­tion 215. He says it in such a funny way, “Well, not un­der this pro­gram.” Thank you, bril­liant. "/>
+            <ITEXT CH="To give you an idea of this, there’s a sys­tem that’s called "/>
+            <ITEXT FONT="Karla Bold" CH="Coloca­tion"/>
+            <ITEXT CH=". This is a sep­ar­ate NSA pro­gram. The Coloca­tion sys­tem is a sys­tem that does graph ana­lys­is. It looks at cell site loc­a­tion data. For those of you that are writ­ing this up for a news­pa­per, when Gen­er­al, or, Em­per­or Al­ex­an­der—as he is called in Wash­ing­ton, DC, no kid­ding—when he talks about how they’re not col­lect­ing things un­der Sec­tion 215. He says it in such a funny way, “Well, not un­der this pro­gram.” Thank you, bril­liant. "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="What they’re do­ing is they’re pulling loc­a­tion data for every­body nearby. They look to see if Caspar’s cell phone is in an audi­ence full of people, and if some of these people go to a cafe with him af­ter­wards, they pull the data to auto­mat­ic­ally find tar­gets by geo­graph­ic prox­im­ity, even if they don’t call each oth­er, be­cause Caspar doesn’t have a cell phone."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Audi­ence Mem­ber: I don’t either, for that reas­on."/>
+            <ITEXT FEATURES="inherit smallcaps" CH="Audi­ence Mem­ber:"/>
+            <ITEXT CH=" I don’t either, for that reas­on."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Jac­ob: Ex­actly. I only have a cell phone just to mess with people at parties these days. It’s in­form­a­tion and fun. It’s a very mo­tiv­at­ing tool. Have you ever met someone that says, “I don’t care about any of this stuff at all?” and you say, “What’s your phone num­ber,” then you dial it, “Hey, thanks for those doc­u­ments,” click."/>
+            <ITEXT FEATURES="inherit smallcaps" CH="Jac­ob: "/>
+            <ITEXT CH="Ex­actly. I only have a cell phone just to mess with people at parties these days. It’s in­form­a­tion and fun. It’s a very mo­tiv­at­ing tool. Have you ever met someone that says, “I don’t care about any of this stuff at all?” and you say, “What’s your phone num­ber,” then you dial it, “Hey, thanks for those doc­u­ments,” click."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="[laughter and ap­plause]"/>
             <para PARENT="Default Paragraph Style"/>
@@ -1009,7 +1015,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="I will leave that as an open re­search ques­tion to Dan and Tan­ja and Ar­jen. That, I think, is also a real­ist­ic thing. We have to mod­el for an ad­versary that, when they do se­lect­ive re­cord­ing of cer­tain things, they may be able to do math­em­at­ic­al at­tacks that we would even have trouble sim­u­lat­ing."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="How do you sim­u­late 50,000 dif­fer­ent kinds of devices dur­ing a Dif­fie-Hell­man, some with bad en­tropy, some without, some talk­ing to a serv­er to has great en­tropy, some with back-doored en­tropy, fol­low the NIST stand­ard, or NIST back-door stand­ards? "/>
+            <ITEXT CH="How do you sim­u­late 50’000 dif­fer­ent kinds of devices dur­ing a Dif­fie-Hell­man, some with bad en­tropy, some without, some talk­ing to a serv­er to has great en­tropy, some with back-doored en­tropy, fol­low the NIST stand­ard, or NIST back-door stand­ards? "/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="[30:52]"/>
             <para PARENT="Default Paragraph Style"/>
@@ -1065,15 +1071,15 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="We are us­ing this in a sys­tem, one of the sys­tems where it’s de­ployed right now, it’s called Pond. Pond is sort of a for­ward secret mes­saging sys­tem which is in an ex­per­i­ment­al phase and it’s a little bit like email and it’s a little bit like off the re­cord mes­saging."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="It gives you a delay tol­er­ant sys­tem where we try to beat the traffic ana­lys­is ad­versary. We hope that they can’t beat Tor. I’m fairly con­fid­ent that the way that they would beat Tor, if they could beat Tor, would be to try to tar­get and ex­ploit things like the Web browser."/>
+            <ITEXT CH="It gives you a delay tol­er­ant sys­tem where we try to beat the traffic ana­lys­is ad­versary. We hope that they can’t beat Tor. I’m fairly con­fid­ent that the way that they would beat Tor, if they could beat Tor, would be to try to tar­get and ex­ploit things like the web browser."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="In fact, I’m cer­tain of that, you should – I’m go­ing to bite my tongue on that one. I’m pretty con­fid­ent in Tor."/>
+            <ITEXT CH="In fact, I’m cer­tain of that, you should—I’m go­ing to bite my tongue on that one. I’m pretty con­fid­ent in Tor."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="In fact, it’s one of the only things that I work on Tor, so I mean, they pay me to say that I’m sure. But I, ac­tu­ally, work on it be­cause I be­lieve it. I would quit if I didn’t be­lieve it."/>
+            <ITEXT CH="In fact, it’s one of the only things that I work on Tor, so I mean, they pay me to say that I’m sure. But I ac­tu­ally work on it be­cause I be­lieve it. I would quit if I didn’t be­lieve it."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="This kind of sys­tem re­quires an an­onym­ous com­mu­nic­a­tions chan­nel, but when we com­bine these things, it means you can meet a per­son, have a com­mu­nic­a­tion with them, share a file, it’s all for­ward secret and we can even, po­ten­tially build en­cryp­ted sys­tems in­to the sys­tem that are post-quantum com­puter res­ist­ant."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="That would be pretty in­cred­ible. Try­ing to say email, for ex­ample, I think, is a lost cause, mostly be­cause it’s just a total dis­aster from every per­spect­ive that you can look at it, ex­cept, in how it’s dis­trib­uted."/>
+            <ITEXT CH="That would be pretty in­cred­ible. Try­ing to save email, for ex­ample, I think, is a lost cause, mostly be­cause it’s just a total dis­aster from every per­spect­ive that you can look at it, ex­cept in how it’s dis­trib­uted."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="That’s, ac­tu­ally, very nicely ar­chi­tec­ted. But in terms of se­cur­ity, things like PGP I trust, but ac­tu­ally get­ting people to use it and user in­ter­face is just a night­mare."/>
             <para PARENT="Default Paragraph Style"/>
@@ -1087,13 +1093,13 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="We also need to, I think, add things like off the re­cord mes­saging. It’s an­oth­er pro­ject I work on as a fair dis­clos­ure."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Ba­sic­ally, I’m just a main­tain­er there, so I de­serve al­most none of the ap­plause that comes from OTR. But, em­bed­ding OTR in­to oth­er pro­grams, so that when we send an SMS, things like TextSe­cure – they do this – it’s like off the re­cord mes­saging, but for SMS."/>
+            <ITEXT CH="Ba­sic­ally, I’m just a main­tain­er there, so I de­serve al­most none of the ap­plause that comes from OTR. But, em­bed­ding OTR in­to oth­er pro­grams, so that when we send an SMS, things like TextSe­cure—they do this—it’s like off the re­cord mes­saging, but for SMS."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Hav­ing these kinds of sys­tems de­ployed are the first step to pro­du­cing, at least in some cases, the con­tent of the mes­sages. But when you have something like OTR and you have something like Pond, you can ac­tu­ally start to re­duce the total amount of metadata as well as the ac­tu­al con­tent that a pass­ive ad­versary can have."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="When you have a se­cure key ex­change, you can start to re­duce even what an act­ive at­tack­er would have. To that end, I think that if you’re work­ing on these things. For ex­ample, I know a couple of people here are in­ter­ested in the Syr­i­an Re­volu­tion, one of the things that you would prob­ably want to con­sider is have one ma­chine, which is com­pletely routed through Tor, us­ing something like the Tails, go to the live CD, nev­er use a Web browser on that com­puter – ever – no mat­ter what. Have an­oth­er ma­chine for brows­ing the Web."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="We need some way to be able to trans­fer in­form­a­tion like a URL from a se­cure com­mu­nic­a­tion sys­tem, prob­ably visu­ally with QR codes, to that ma­chine which is go­ing to get com­prom­ised. It will. A Web browser is just a night­mare of code."/>
+            <ITEXT CH="We need some way to be able to trans­fer in­form­a­tion like a URL from a se­cure com­mu­nic­a­tion sys­tem, prob­ably visu­ally with QR codes, to that ma­chine which is go­ing to get com­prom­ised. It will. A web browser is just a night­mare of code."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Really it’s a dis­aster. It’s really quite, quite scary."/>
             <para PARENT="Default Paragraph Style"/>
@@ -1105,7 +1111,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="I think fund­ing re­search in that is really crit­ic­al, be­cause part of the way that the NSA wins with this is that they do have the so-called “home field ad­vant­age.” Part of the home field ad­vant­age that they have is all the ma­jor cor­por­a­tions that even con­trol things like DNSSEC, I think, you know, who are they to hold them to if not the NSA?"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="That, to me, is a very scary thing. As an an­ec­dote to this, I met a per­son who works in a se­cur­ity com­pany and they told me about an in­stru­ment – a leg­al in­stru­ment which, I be­lieve, is the NSA’s busi­ness re­cords re­quest in­stru­ment – and ba­sic­ally, they were told that whatever they do for their cus­tom­ers, they are re­quired – and I haven’t veri­fied this yet, but it seems feas­ible that this is true. I heard it from two sep­ar­ate sources."/>
+            <ITEXT CH="That, to me, is a very scary thing. As an an­ec­dote to this, I met a per­son who works in a se­cur­ity com­pany and they told me about an in­stru­ment—a leg­al in­stru­ment which, I be­lieve, is the NSA’s busi­ness re­cords re­quest in­stru­ment—and ba­sic­ally, they were told that whatever they do for their cus­tom­ers, they are re­quired—and I haven’t veri­fied this yet, but it seems feas­ible that this is true. I heard it from two sep­ar­ate sources."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Ba­sic­ally, they are re­quired to turn over their en­tire work product to this re­quest­ing agency. Even be­fore they turn it over to their cus­tom­ers and they’re not al­lowed to tell their share­hold­ers and they’re not al­lowed to do any­thing with this, ex­cept to hand it over."/>
             <para PARENT="Default Paragraph Style"/>
@@ -1113,7 +1119,7 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="Then, ba­sic­ally, in this private prop­erty is des­troyed, as the state has es­sen­tially privat­ized armies of com­puter se­cur­ity re­search­ers and their re­search, ex­ploits, bugs that they found, in­ter­est­ing audits for private cus­tom­er, will get handed over to this re­quest­ing agency."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="I’ve heard that from two sep­ar­ate sources, but I haven’t seen doc­u­ments on it. If any­one in this audi­ence works for a se­cur­ity com­pany and has had something like that hap­pen to you – you’d have to be an Amer­ic­an."/>
+            <ITEXT CH="I’ve heard that from two sep­ar­ate sources, but I haven’t seen doc­u­ments on it. If any­one in this audi­ence works for a se­cur­ity com­pany and has had something like that hap­pen to you—you’d have to be an Amer­ic­an."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="I sus­pect there are a few of you here. I’d love to learn more about that. Be­cause what I see in the oth­er things is that that seems to be what they would want to do in some cases."/>
             <para PARENT="Default Paragraph Style"/>
