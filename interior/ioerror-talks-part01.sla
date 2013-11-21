@@ -353,9 +353,7 @@
             <para PARENT="Metadata" LINESPMode="1"/>
             <para PARENT="Default Paragraph Style"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FEATURES="inherit smallcaps" CH="Jac­ob Ap­pel­baum"/>
-            <ITEXT FONT="Karla Bold" FEATURES="inherit smallcaps" CH=":"/>
-            <ITEXT FEATURES="inherit smallcaps" CH=" "/>
+            <ITEXT FEATURES="inherit smallcaps" CH="Jac­ob Ap­pel­baum: "/>
             <ITEXT CH="Today, I’m go­ing to talk about a couple of oth­er things oth­er than just Ir­aq and Kat­rina. I’m go­ing to show you a bunch of pho­tos. I had spent a bunch of time blab­ber­ing on in slides, like where I’m from, what kind of crap I do, where I’ve been re­cently, why I care."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="I’m not even go­ing to both­er with any of these slides, be­cause I don’t think there’s any point in show­ing you a bunch of slides. I’ll just show you what I saw, and I’ll tell you a story. I think a story is more mov­ing. I’m go­ing to start off by telling you about pho­to­graphy. I see the world through a cam­era. I work with com­puters for non"/>
@@ -486,7 +484,8 @@
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="[laughter]"/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT CH="Jac­ob: So I dug up all the in­form­a­tion on all the bur­eau­crats and post it on­line, and they got some phone calls. It was pos­ted around some pretty prom­in­ent web­logs. Some people, like Shany Jordan at Bo­ing Bo­ing, really sup­por­ted me in this en­deavor. Well I think they got more than a couple of phone calls any­way. Even­tu­ally, they caved, and we were able to get the ra­dio sta­tions set up. They only let us set up the ra­dio sta­tion out­side though."/>
+            <ITEXT FEATURES="inherit smallcaps" CH="Jac­ob:"/>
+            <ITEXT CH=" So I dug up all the in­form­a­tion on all the bur­eau­crats and post it on­line, and they got some phone calls. It was pos­ted around some pretty prom­in­ent web­logs. Some people, like Shany Jordan at Bo­ing Bo­ing, really sup­por­ted me in this en­deavor. Well I think they got more than a couple of phone calls any­way. Even­tu­ally, they caved, and we were able to get the ra­dio sta­tions set up. They only let us set up the ra­dio sta­tion out­side though."/>
             <para PARENT="Default Paragraph Style"/>
             <ITEXT CH="At this point, I’ve pretty much giv­en up on do­ing any­thing else here. So we col­lec­ted some hard­ware dona­tions, and it was at this point that I had a call to arms from a friend that I’ve worked with pre­vi­ously. He said that they needed some help in New Or­leans. It was at that point that I de­cided it was time to go. With my part­ner and a van, we load it up with all the sup­plies that we could pos­sibly fill. Be­cause you would cre­ate an un­ne­ces­sary bur­den on the dis­aster area if you were to come in and ask for their meals ready to eat, their wa­ter, their med­ic­al sup­plies."/>
             <para PARENT="Default Paragraph Style"/>
